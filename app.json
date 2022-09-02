@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "learn-react-native",
-    "slug": "learn-react-native",
+    "name": "Netflix",
+    "slug": "Netflix",
     "version": "1.0.0",
-    "orientation": "portrait",
+    "orientation": "default",
     "icon": "./assets/icon.png",
-    "userInterfaceStyle": "light",
+    "userInterfaceStyle": "dark",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
